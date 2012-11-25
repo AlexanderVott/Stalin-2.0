@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сталин: Полное собрание сочинений</string>
+    <string name="title_activity_view_pager">ViewPager</string>
+    <string name="title_activity_volume_list_fragment">VolumeList</string> 
+    
+    <!-- Технические термины -->
+    <string name="quit">Quit</string>
+    <string name="install_modules">Install modules</string>
+    <string name="update_modules">Update modules</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="loading_list_modules">Loading list of modules</string>
+    <string name="failed_loading_list_modules">Failed loading list of modules</string>
+    <string name="open">Открыть</string>
+    <string name="delete">Ударить</string>
+    <string name="actionbar_activity_not_found">Failed to open intent&#8230;</string>
+    <string name="save">Сохранить</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="ok">Да</string>
+    <string name="cancel">Отмена</string>
+    <string name="edit">Редактировать</string>
+    
+    <string name="confirm">Подтверждение</string>
+    <string name="confirm_message_delete">Вы уверены, что хотите удалить?</string>
+        
+    <string name="toast_dont_save_scroll">Позиция не сохранена</string>
+    
+    <string name="textView_List_Title">Содержание</string>
+    
+    <!-- Меню -->
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_search">Поиск</string>
+    <string name="menu_about">О программе</string>
+    <string name="menu_bookmark_on">В закладках</string>
+    <string name="menu_bookmark_off">В закладки</string>
+    
+    <!-- Настройки -->    
+    <string name="pref">Настройки</string>
+    <string name="pref_section_title_one">Оформление</string>
+    <string name="pref_dark_theme_title">Тёмный интерфейс</string>
+    <string name="pref_dark_theme_summary">Переключатель между тёмным и светлым интерфейсами.</string>
+    <string name="pref_bg_title">Включить фон</string>
+    <string name="pref_bg_summary"></string>
+    <string name="pref_section_title_two">Функционал</string>
+    <string name="pref_open_vol_title">Запоминать открытое</string>
+    <string name="pref_open_vol_summary">Открывать последнюю главу при запуске приложения</string>
+    <string name="pref_text_size_title">Размер шрифта</string>
+    <string name="pref_text_size_summary">Настроить размер отображаемого текста</string>
+    <string name="pref_fullscr_title">Полный экран</string>
+    <string name="pref_fullscr_summary">Скрыть строку статуса</string>
+    <string name="pref_sleep_title">Не выключать экран</string>
+    <string name="pref_sleep_summary">Не переходить в спящий режим</string>
+    
+    <!-- Авторы -->    
+    <string name="author_title_developer">Разработка</string>
+    <string name="author_title_thanks">Благодарность</string>
+    <string name="author_develoepr_0">Киселёв Александр</string>
+    <string name="author_develoepr_1">Илья Ефимов</string>
+    <string name="author_thanks_0">М.Н.Грачеву</string>
+    <string name="author_thanks_1">М.А.Куликовой</string>
+    
+    <!-- Девиз -->
+    <string name="slogan">Встретимся в СССР!</string>
+    
+    <!-- Диалог поиска -->
+    <string name="search_title">Поиск</string>
+    <string name="search_edittext_hint">Введите текст для поиска&#8230;</string>
+    <string name="search_button_search_title">Искать</string>
+    
+	<!-- Сообщение выводимое при старте -->
+    <string name="start_message_title">Внимание!</string>
+    <string name="start_message_text">Товарищ!\nБудь бдителен!\n\nВ собрании сочинений товарища Сталина материалы, содержащиеся в томах, вышедших после перестройки, могут содержать в себе фальсификации и попытки дезинформации читателя.\nРазработчики приложения настоятельно рекомендуют не воспринимать статьи, ссылающиеся на сомнительные источники, всерьёз и читать их исключительно в ознакомительных целях.\nНет сомнений, что с именем Сталина связано немало событий в истории России и мира. Очевидно, что чем величественнее историческая фигура, тем больше лжи на эту персону пытались, и, к сожалению, продолжают пытаться лить корыстные люди разного толка.\nВ полном собрании сочинений товарища Сталина можно найти и прочесть множество статей, посвящённых Великой Октябрьской социалистической революции, укреплению экономики и обороноспособности СССР, разногласиям среди большевиков и многим событиям, которые внесли свой вклад в историю человечества.\nОсознавая важность недопущения фальсификаций истории, коллектив разработчиков снова просит читателей быть более критичными к высказываниям, выдающимся за высказывания И.В. Сталина.\n\nПриятного чтения.</string>
+    <string name="start_message_button">Продолжить</string>
+    
+    <!-- Warnings -->
+    <string name="warning_footer">*Тома, изданные после перестройки. Возможны фальсификации.</string>
+    
+    <!-- Сообщения -->
+    <string name="toast_empty">Пусто</string>
+    <string name="toast_bookmark_save">Закладка создана</string>
+    <string name="toast_bookmark_crash">Ошибка создания закладки</string>
+    <string name="toast_bookmark_delete">Закладка удалена</string>
+    
+    <string name="bookmark_last_open">Последнее открытое</string>
+    
+    <!-- Bookmark dialog -->
+    <string name="bookmark_dialog_title">Закладки</string>
+    <string name="bookmark_dialog_comment_title">Комментарий</string>
+    
+    <!-- Экран глав -->
+    <string name="content_title">Содержание</string>
+</resources>

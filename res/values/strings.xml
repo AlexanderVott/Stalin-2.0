@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stalin: Omnibus edition</string>
+    <string name="title_activity_view_pager">ViewPager</string>
+    <string name="title_activity_volume_list_fragment">VolumeList</string> 
+    
+    <!-- Технические термины -->
+    <string name="quit">Quit</string>
+    <string name="install_modules">Install modules</string>
+    <string name="update_modules">Update modules</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="loading_list_modules">Loading list of modules</string>
+    <string name="failed_loading_list_modules">Failed loading list of modules</string>
+    <string name="open">Open</string>
+    <string name="delete">Delete</string>
+    <string name="actionbar_activity_not_found">Failed to open intent&#8230;</string>
+    <string name="save">Save</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    
+    <string name="confirm">Confirm</string>
+    <string name="confirm_message_delete">Are you sure that you want to delete?</string>
+        
+    <string name="toast_dont_save_scroll">Position not saved</string>
+    
+    <string name="textView_List_Title">Contents</string>
+    
+    <!-- Меню -->
+    <string name="menu_settings">Settings</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_about">About</string>
+    <string name="menu_bookmark_on">In bookmarks</string>
+    <string name="menu_bookmark_off">Make a bookmark</string>
+    
+    <!-- Настройки -->    
+    <string name="pref">Settings</string>
+    <string name="pref_section_title_one">Design</string>
+    <string name="pref_dark_theme_title">Dark theme</string>
+    <string name="pref_dark_theme_summary">Switch between light and dark theme</string>
+    <string name="pref_bg_title">Enable background</string>
+    <string name="pref_bg_summary"></string>
+    <string name="pref_section_title_two">Features</string>
+    <string name="pref_open_vol_title">Remember opened article</string>
+    <string name="pref_open_vol_summary">Open article after the running of application</string>
+    <string name="pref_text_size_title">Font size</string>
+    <string name="pref_text_size_summary">Text size</string>
+    <string name="pref_fullscr_title">Full screen</string>
+    <string name="pref_fullscr_summary">Hide status</string>
+    <string name="pref_sleep_title">Disable sleepy mode</string>
+    <string name="pref_sleep_summary">Always bright</string>
+    
+    <!-- Авторы -->    
+    <string name="author_title_developer">Development</string>
+    <string name="author_title_thanks">Thanks</string>
+    <string name="author_develoepr_0">Alexander Kiselev</string>
+    <string name="author_develoepr_1">Ilya Yefimov</string>
+    <string name="author_thanks_0">M.N. Grachev</string>
+    <string name="author_thanks_1">Kulikova M.A.</string>
+    
+    <!-- Девиз -->
+    <string name="slogan">Will meet in USSR!</string>
+    
+    <!-- Диалог поиска -->
+    <string name="search_title">Search</string>
+    <string name="search_edittext_hint">Enter the text to search&#8230;</string>
+    <string name="search_button_search_title">Search</string>
+    
+	<!-- Сообщение выводимое при старте -->
+    <string name="start_message_title">Comrade!</string>
+    <string name="start_message_text">Joseph Stalin, continuing the work of Lenin, turned the first in the world young socialist state into the mighty world power.\nThanks to the Stalin\'s job, soviet people defended socialist homeland from Nazi aggression.\nJoseph Stalin, like Vladimir Lenin and Karl Marx, in the past represented the aspirations and interests of the oppressed working masses, and socialism forever inextricably linked with his name.\nIn Stalin\'s omnibus edition you can find and read literary works of Stalin devoted to the October Revolution, the strengthening of the economy and industry of the USSR, critique of trotskyism and to many events of the history of mankind.\n\nWe believe that the literary works of Stalin will be interesting for everybody who interested in politics and history.\n\nEditorial board wish a pleasant reading for you</string>
+    <string name="start_message_button">Продолжить</string>
+    
+    <!-- Warnings -->
+    <string name="warning_footer"></string>
+    
+    <!-- Сообщения -->
+    <string name="toast_empty">Empty</string>
+    <string name="toast_bookmark_save">Bookmark successfully added</string>
+    <string name="toast_bookmark_crash">Error adding a bookmark</string>
+    <string name="toast_bookmark_delete">Bookmars deleted</string>
+    
+    <string name="bookmark_last_open">Last article</string>
+    
+    <!-- Bookmark dialog -->
+    <string name="bookmark_dialog_title">Bookmarks</string>
+    <string name="bookmark_dialog_comment_title">Comment</string>
+    
+    <!-- Экран глав -->
+    <string name="content_title">Contents</string>
+</resources>

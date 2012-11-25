@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sizetextarray">
+		<item>Мелкий</item>
+		<item>Небольшой</item>
+		<item>Нормальный</item>
+		<item>Большой</item>
+		<item>Очень большой</item>
+		<item>Огромный</item>
+	</string-array>
+	<string-array name="sizetextvalues">
+		<item>12</item>
+		<item>18</item>
+		<item>24</item>
+		<item>36</item>
+		<item>48</item>
+		<item>72</item>
+	</string-array>
+</resources>

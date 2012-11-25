@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+	<LinearLayout
+		android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical" >
+	    	<EditText
+	        	android:id="@+id/editText_content"
+	            android:layout_width="fill_parent"
+	            android:layout_height="fill_parent"
+	            android:text=""
+	            android:hint=""
+	            android:paddingLeft="6dip"
+				android:paddingRight="6dip"
+				android:paddingTop="6dip"
+				android:cursorVisible="false"
+		        style="@style/Theme.EOT.TextView"
+		        android:textColor="#FFF"
+		        android:textColorLink="#000"
+		        android:textColorHighlight="#000"
+		        android:autoLink="web"
+
+	            android:textAppearance="?android:attr/textAppearanceMedium">
+	            <requestFocus />
+<!-- 		        android:clickable="false"  -->
+<!-- 		        android:focusable="false"  -->
+<!--         		android:focusableInTouchMode="false" -->
+	            
+<!-- 	            android:inputType="none" -->
+			</EditText>
+	</LinearLayout>
+</ScrollView>
