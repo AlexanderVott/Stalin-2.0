@@ -11,6 +11,7 @@ Stalin-2.0
 * [SVG-Android](http://code.google.com/p/svg-android/)
 
 [Ссылка на Google play](https://play.google.com/store/apps/details?id=com.FouregoStudio.Stalin&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5Gb3VyZWdvU3R1ZGlvLlN0YWxpbiJd) (первая версия)
+
 [Исходный код первой версии](https://github.com/Igroman14/Stalin)
 
 Скриншоты:
