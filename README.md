@@ -1,7 +1,7 @@
 Stalin-2.0
 ==========
 
-Обновление проекта "Сталин: полное собрание сочинений". К сожалению не успел закончить перед армией.
+Обновление проекта "Сталин: полное собрание сочинений". К сожалению, не успел закончить перед армией.
 
 Использовались библиотеки:
 * [Sherlock ActionBar](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC4QFjAA&url=http%3A%2F%2Factionbarsherlock.com%2F&ei=JFeyULmdGcjZ4QTn_IHYDQ&usg=AFQjCNEKyOYK1H-iAiI67o4J8dIPJNL9TA&sig2=xB-a2SyHW1JGypt6Y98Fgg)
@@ -11,6 +11,7 @@ Stalin-2.0
 * [SVG-Android](http://code.google.com/p/svg-android/)
 
 [Ссылка на Google play](https://play.google.com/store/apps/details?id=com.FouregoStudio.Stalin&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5Gb3VyZWdvU3R1ZGlvLlN0YWxpbiJd) (первая версия)
+[Исходный код первой версии](https://github.com/Igroman14/Stalin)
 
 Скриншоты:
 ---------
