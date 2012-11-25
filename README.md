@@ -10,6 +10,8 @@ Stalin-2.0
 * [AmazingListView](http://code.google.com/p/android-amazing-listview/)
 * [SVG-Android](http://code.google.com/p/svg-android/)
 
+[Ссылка на Google play](https://play.google.com/store/apps/details?id=com.FouregoStudio.Stalin&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5Gb3VyZWdvU3R1ZGlvLlN0YWxpbiJd) (первая версия)
+
 Скриншоты:
 ---------
 ![scr1](https://lh4.googleusercontent.com/-GZOaZfyPzIQ/UI1UJ86boDI/AAAAAAAAOcY/lafWZX6heNo/s480/device-2012-10-28-214833.png "scr1")
