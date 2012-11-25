@@ -11,6 +11,7 @@ Stalin-2.0
 * [SVG-Android](http://code.google.com/p/svg-android/)
 
 Скриншоты:
+---------
 ![scr1](https://lh4.googleusercontent.com/-GZOaZfyPzIQ/UI1UJ86boDI/AAAAAAAAOcY/lafWZX6heNo/s480/device-2012-10-28-214833.png "scr1")
 ![scr2](https://lh6.googleusercontent.com/-IBv87mPuIjk/UJAfxYLc1eI/AAAAAAAAOrE/YQLRZ71lru0/s480/device-2012-10-31-004228.png "scr2")
 ![scr3](https://lh5.googleusercontent.com/-fTV3KLMN88U/UKgEplhGxRI/AAAAAAAAQE0/27U7ptHJC7s/s1027/dev_screen_bookmarks.PNG "scr3")
